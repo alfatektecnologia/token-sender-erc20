@@ -40,7 +40,7 @@ Transaction 0x05f98e0b4cf1bea9f360b15a854311fbe2544be24f8c4b0c6d80f02fa4f5e6fa c
 Class hash declared:
 0x04034b3f62918e9a2915985cb7e3a27fa31a5ae6f259a566f8a0f1235dedfa56
 
-## 4 Deployand Alfa ERC20 Token
+## 4 Deploying Alfa ERC20 Token
 
 starkli deploy 0x04034b3f62918e9a2915985cb7e3a27fa31a5ae6f259a566f8a0f1235dedfa56 u256:1000000000 0x051557d6fbfbf98cc9a7f6454d084e2e94b44669f2e554fea76ad424bd651df6  
 --rpc https://starknet-sepolia.public.blastapi.io/rpc/v0_7 --account ~/.alfa-wallets/erc20test/alfa_account.json --keystore ~/.alfa-wallets/erc20test/alfa_keystore.json
