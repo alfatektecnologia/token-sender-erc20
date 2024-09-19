@@ -95,7 +95,7 @@ starkli declare ./target/dev/token_sender_AlfaERC20.contract_class.json --accoun
 result: class hash 0x02bb88d1d1ff525ed1456c7b8a96f735b98e0e679b0a7632a16408e8a37e9fe8
 class hash declared: 0x04034b3f62918e9a2915985cb7e3a27fa31a5ae6f259a566f8a0f1235dedfa56
 
-## 4 Deployand Alfa ERC20 Token
+## 4 Deploying Alfa ERC20 Token
 
 starkli deploy 0x04034b3f62918e9a2915985cb7e3a27fa31a5ae6f259a566f8a0f1235dedfa56 u256:1000000000 0x02700ce498c01ffc0af8426b465dcb3a615e408092a76fb0390d56c1b6c45c0e --account C:\Users\eoliveira/.wallets/mainnet/mainnet_account2.json --rpc https://free-rpc.nethermind.io/mainnet-juno --keystore ~/.wallets/mainnet/mainnet_ketstore.json
 
