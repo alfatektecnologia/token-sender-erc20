@@ -1,6 +1,6 @@
 ## SEPOLIA - TESTNET
 
-### 0 - Creating the folder (Criando a pasta do projeto)
+#### 0 - Creating the folder (Criando a pasta do projeto)
 
 mkdir ~/.alfa-wallets
 mkdir ~/.alfa-wallets/erc20test
